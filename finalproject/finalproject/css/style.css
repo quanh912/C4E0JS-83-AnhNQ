@@ -1,0 +1,27 @@
+/* html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background: black no-repeat 50% 50%;
+    background-size: cover;
+}
+
+#loader {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    overflow: visible;
+    background: rgb(0, 0, 0) url('2RNb.gif') no-repeat center center;
+}
+
+h1 {
+    position: fixed;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(2, 2, 2);
+    font-family: poppins;
+} */
+   
